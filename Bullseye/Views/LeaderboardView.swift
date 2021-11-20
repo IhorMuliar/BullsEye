@@ -1,10 +1,3 @@
-//
-//  LeaderboardView.swift
-//  Bullseye
-//
-//  Created by Ray Wenderlich on 10/23/20.
-//
-
 import SwiftUI
 
 struct LeaderboardView: View {

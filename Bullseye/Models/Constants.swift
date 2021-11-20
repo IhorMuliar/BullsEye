@@ -1,10 +1,3 @@
-//
-//  Models.swift
-//  Bullseye
-//
-//  Created by Ray Wenderlich on 10/23/20.
-//
-
 import Foundation
 import UIKit
 

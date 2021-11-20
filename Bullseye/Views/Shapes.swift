@@ -1,10 +1,3 @@
-//
-//  Shapes.swift
-//  Bullseye
-//
-//  Created by Ray Wenderlich on 10/16/20.
-//
-
 import SwiftUI
 
 struct Shapes: View {

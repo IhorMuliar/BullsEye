@@ -1,10 +1,3 @@
-//
-//  PointsView.swift
-//  Bullseye
-//
-//  Created by Ray Wenderlich on 10/21/20.
-//
-
 import SwiftUI
 
 struct PointsView: View {

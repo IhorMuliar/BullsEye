@@ -1,10 +1,3 @@
-//
-//  BullseyeTests.swift
-//  BullseyeTests
-//
-//  Created by Ray Wenderlich on 10/16/20.
-//
-
 import XCTest
 @testable import Bullseye
 
